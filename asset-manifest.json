@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/terminator/static/css/main.0346cdb4.chunk.css",
-    "main.js": "/terminator/static/js/main.f8649b31.chunk.js",
-    "main.js.map": "/terminator/static/js/main.f8649b31.chunk.js.map",
+    "main.css": "/terminator/static/css/main.7c179030.chunk.css",
+    "main.js": "/terminator/static/js/main.384983dd.chunk.js",
+    "main.js.map": "/terminator/static/js/main.384983dd.chunk.js.map",
     "runtime~main.js": "/terminator/static/js/runtime~main.2e11ea5b.js",
     "runtime~main.js.map": "/terminator/static/js/runtime~main.2e11ea5b.js.map",
     "static/js/2.3abb90d4.chunk.js": "/terminator/static/js/2.3abb90d4.chunk.js",
     "static/js/2.3abb90d4.chunk.js.map": "/terminator/static/js/2.3abb90d4.chunk.js.map",
     "index.html": "/terminator/index.html",
-    "precache-manifest.4670d79a8c5cfe7de0e26b8dce41731e.js": "/terminator/precache-manifest.4670d79a8c5cfe7de0e26b8dce41731e.js",
+    "precache-manifest.388277875bd2369b810b73ef9da04b89.js": "/terminator/precache-manifest.388277875bd2369b810b73ef9da04b89.js",
     "service-worker.js": "/terminator/service-worker.js",
-    "static/css/main.0346cdb4.chunk.css.map": "/terminator/static/css/main.0346cdb4.chunk.css.map",
+    "static/css/main.7c179030.chunk.css.map": "/terminator/static/css/main.7c179030.chunk.css.map",
     "static/media/step11.png": "/terminator/static/media/step11.9fe43525.png",
     "static/media/step22.png": "/terminator/static/media/step22.ee79055a.png"
   }
